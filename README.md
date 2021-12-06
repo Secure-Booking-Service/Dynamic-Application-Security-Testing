@@ -4,10 +4,9 @@
     <h2>Dynamic Application Security Testing</h2>
     <br>
 </div>
+
 [![Badge](https://img.shields.io/badge/project-Secure%20Booking%20Service-blue)](https://github.com/Secure-Booking)
-
 [![ZAP - Full Scan](https://github.com/Secure-Booking-Service/Dynamic-Application-Security-Testing/actions/workflows/full-scan.yml/badge.svg)](https://github.com/Secure-Booking-Service/Dynamic-Application-Security-Testing/actions/workflows/full-scan.yml)
-
 [![ZAP - API Scan](https://github.com/Secure-Booking-Service/Dynamic-Application-Security-Testing/actions/workflows/api-scan.yml/badge.svg)](https://github.com/Secure-Booking-Service/Dynamic-Application-Security-Testing/actions/workflows/api-scan.yml)
 
 This repository contains workflow files for GitHub Actions. These workflows performs either a [Full scan](https://www.zaproxy.org/docs/docker/full-scan/) or an [API scan](https://www.zaproxy.org/docs/docker/api-scan/).
